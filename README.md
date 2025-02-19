@@ -6,5 +6,4 @@
 - 👯 Ayundante de profesores universitario de programación durante 2 años en la UNLP
 - 🤔 Investigando como incorporar las IAs en la enseñanza de forma ética y efectiva
 - 💬 Experimentando con el uso de la electrónica en artes como la cerámica
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Actualemente aprendiendo sobre shaders
