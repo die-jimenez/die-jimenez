@@ -14,8 +14,8 @@
 
 
 
-# 🚀 Algunos de mis proyectos
-<table width="100%">
+## 🚀 Algunos de mis proyectos
+<table width="90%">
   <tr>
     <td width="50%">
       <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
