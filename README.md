@@ -34,14 +34,10 @@
       <p>Una línea con la descripción corta del repo-1.</p>
       <div width="100%" align="center">
        <a align="right" href="https://github.com/Alierenkayhan/Atolye" title="Atolye">
-       <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Atolye&theme=react&border_color=61dafb&border_radius=10"></a>
+       <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5"></a>
+        
       </div>
-      <!-- badges dinámicos -->
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-1?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-1?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-1?style=flat" alt="language"/>
-      </p>
+
     </td>
     <!-- otra fila -->
     <td align="center" width="50%">
