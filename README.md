@@ -31,20 +31,16 @@
       <div width="100%" align="center">
        <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
-       </a>
+      </a>
     </td>
     <!-- otra fila -->
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-4">
-        <img src="https://diegojimenez.com.ar/github-assets/peep.webp" width="100%" alt="repo-4"/>
+    <td width="50%">
+      <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
+      <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
+      <div width="100%" align="center">
+       <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
+      </div>
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-4">repo-4</a></h3>
-      <p>Descripción corta del repo-4.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-4?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-4?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-4?style=flat" alt="language"/>
-      </p>
     </td>
   </tr>
 
