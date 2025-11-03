@@ -26,15 +26,12 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/USUARIO/repo-1">
-        <!-- tarjeta automática de GitHub -->
-        <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
-      </a>
+      <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
+      <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
       <div width="100%" align="center">
-       <a align="right" href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
        <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
-       </a>
       </div>
+       </a>
     </td>
     <!-- otra fila -->
     <td align="center" width="50%">
