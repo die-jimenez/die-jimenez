@@ -45,30 +45,23 @@
   </tr>
 
   <!-- otra fila -->
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-3">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-3" width="100%" alt="repo-3"/>
+   <tr>
+    <td width="50%">
+      <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
+      <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
+      <div width="100%" align="center">
+       <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=Tamagotchi&theme=dark&border_color=f1f1f1&border_radius=5">
+      </div>
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-3">repo-3</a></h3>
-      <p>Descripción corta del repo-3.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-3?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-3?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-3?style=flat" alt="language"/>
-      </p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-4">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-4" width="100%" alt="repo-4"/>
+    <!-- otra fila -->
+    <td width="50%">
+      <a href="https://github.com/die-jimenez/Peep-Prototype" title="Peep-Prototype">
+      <img src="https://diegojimenez.com.ar/github-assets/peep.webp"/>
+      <div width="100%" align="center">
+       <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=peep-prototype&theme=dark&border_color=f1f1f1&border_radius=5">
+      </div>
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-4">repo-4</a></h3>
-      <p>Descripción corta del repo-4.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-4?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-4?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-4?style=flat" alt="language"/>
-      </p>
     </td>
   </tr>
 </table>
