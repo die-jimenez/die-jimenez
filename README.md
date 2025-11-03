@@ -38,7 +38,7 @@
       <a href="https://github.com/die-jimenez/Peep-Prototype" title="Peep-Prototype">
       <img src="https://diegojimenez.com.ar/github-assets/peep.webp"/>
       <div width="100%" align="center">
-       <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=Peep-Prototype&theme=dark&border_color=f1f1f1&border_radius=5">
+       <img align="left" width="100%" src="">
       </div>
       </a>
     </td>
