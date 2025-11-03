@@ -26,9 +26,9 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://diegojimenez.com.ar/github-assets/a-future.webp">
+      <a href="https://github.com/USUARIO/repo-1">
         <!-- tarjeta automática de GitHub -->
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-1" width="100%" alt="repo-1"/>
+        <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
       </a>
       <h3>📌 <a href="https://github.com/USUARIO/repo-1">repo-1</a></h3>
       <p>Una línea con la descripción corta del repo-1.</p>
