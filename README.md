@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-1">
+      <a href="https://diegojimenez.com.ar/github-assets/a-future.webp">
         <!-- tarjeta automática de GitHub -->
         <img src="https://opengraph.githubassets.com/1/USUARIO/repo-1" width="100%" alt="repo-1"/>
       </a>
@@ -42,7 +42,7 @@
     <!-- otra fila -->
     <td align="center" width="50%">
       <a href="https://github.com/USUARIO/repo-4">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-4" width="100%" alt="repo-4"/>
+        <img src="https://diegojimenez.com.ar/github-assets/peep.webp" width="100%" alt="repo-4"/>
       </a>
       <h3>📌 <a href="https://github.com/USUARIO/repo-4">repo-4</a></h3>
       <p>Descripción corta del repo-4.</p>
