@@ -15,9 +15,9 @@
 
 
 ## 🚀 Algunos de mis proyectos
-<table width="90%">
+<table>
   <tr>
-    <td width="50%">
+    <td width="49%">
       <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
       <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
       <div width="100%" align="center">
@@ -26,7 +26,7 @@
       </a>
     </td>
     <!-- otra fila -->
-    <td width="50%">
+    <td width="49%">
       <a href="https://github.com/die-jimenez/Peep-Prototype" title="Peep-Prototype">
       <img src="https://diegojimenez.com.ar/github-assets/peep.webp"/>
       <div width="100%" align="center">
@@ -37,7 +37,7 @@
   </tr>
   <!-- otra fila -->
    <tr>
-    <td width="50%">
+    <td width="49%">
       <a href="https://github.com/die-jimenez/Tamagotchi" title="Tamagotchi">
       <img src="https://diegojimenez.com.ar/github-assets/tamagotchi.jpg"/>
       <div width="100%" align="center">
@@ -46,7 +46,7 @@
       </a>
     </td>
     <!-- otra fila -->
-    <td width="50%">
+    <td width="49%">
       <a href="https://github.com/die-jimenez/Peep-Prototype" title="Peep-Prototype">
       <img src="https://diegojimenez.com.ar/github-assets/cinematic.webp"/>
       <div width="100%" align="center">
