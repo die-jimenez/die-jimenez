@@ -35,9 +35,7 @@
       <div width="100%" align="center">
        <a align="right" href="https://github.com/Alierenkayhan/Atolye" title="Atolye">
        <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5"></a>
-        
       </div>
-
     </td>
     <!-- otra fila -->
     <td align="center" width="50%">
