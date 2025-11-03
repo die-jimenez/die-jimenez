@@ -12,80 +12,9 @@
 # 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## 🚀 Algunos de mis proyectos
-
----
-<table> <tr> <td align="center" width="50%"> <a href="https://github.com/tuusuario/sos-animals"> <img src="https://user-images.githubusercontent.com/0000000/sos-animals.png" width="100%" alt="SOS Animals"/> </a> <h3>🐾 sos-animals</h3> <p>Helps abandoned animals get help from local organizations when people report them via the app.</p> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> ⭐ 4 · 🍴 3 </p> </td> <td align="center" width="50%"> <a href="https://github.com/tuusuario/smart-shopping-list"> <img src="https://user-images.githubusercontent.com/0000000/smart-shopping.png" width="100%" alt="Smart Shopping App"/> </a> <h3>🛒 smart-shopping-list</h3> <p>The app learns your buying habits and reminds you what you’re likely to need next time.</p> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> </p> </td> </tr> <tr> <td align="center" width="50%"> <a href="https://github.com/tuusuario/nikki-my-diary"> <img src="https://user-images.githubusercontent.com/0000000/nikki.png" width="100%" alt="Nikki My Diary"/> </a> <h3>📔 nikki-my-diary</h3> <p>An online journal helping users improve Japanese skills by writing their thoughts daily.</p> <p> <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/> </p> </td> <td align="center" width="50%"> <a href="https://github.com/tuusuario/instagram-clone"> <img src="https://user-images.githubusercontent.com/0000000/instagram-clone.png" width="100%" alt="Instagram Clone"/> </a> <h3>📱 instagram-clone</h3> <p>Instagram clone built with ReactJS, Firebase, and TailwindCSS. Includes hooks and testing.</p> <p> <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/> </p> </td> </tr> </table>
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=die-jimenez&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=die-jimenez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
-
-
-## 🚀 Algunos de mis proyectos
-
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-1">
-        <!-- tarjeta automática de GitHub -->
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-1" width="100%" alt="repo-1"/>
-      </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-1">repo-1</a></h3>
-      <p>Una línea con la descripción corta del repo-1.</p>
-      <!-- badges dinámicos -->
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-1?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-1?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-1?style=flat" alt="language"/>
-      </p>
-    </td>
-    <!-- otra fila -->
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-4">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-4" width="100%" alt="repo-4"/>
-      </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-4">repo-4</a></h3>
-      <p>Descripción corta del repo-4.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-4?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-4?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-4?style=flat" alt="language"/>
-      </p>
-    </td>
-  </tr>
-
-  <!-- otra fila -->
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-3">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-3" width="100%" alt="repo-3"/>
-      </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-3">repo-3</a></h3>
-      <p>Descripción corta del repo-3.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-3?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-3?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-3?style=flat" alt="language"/>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/USUARIO/repo-4">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-4" width="100%" alt="repo-4"/>
-      </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-4">repo-4</a></h3>
-      <p>Descripción corta del repo-4.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-4?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-4?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-4?style=flat" alt="language"/>
-      </p>
-    </td>
-  </tr>
-</table>
