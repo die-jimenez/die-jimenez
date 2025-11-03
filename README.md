@@ -32,6 +32,14 @@
       </a>
       <h3>📌 <a href="https://github.com/USUARIO/repo-1">repo-1</a></h3>
       <p>Una línea con la descripción corta del repo-1.</p>
+      <div width="100%" align="center">
+ <a align="right" href="https://github.com/Alierenkayhan/Atolye" title="Atolye">
+  <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Atolye&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Alierenkayhan/CollegeApp-WebApiDotnet7" title="CollegeApp-WebApiDotnet7">
+    <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=CollegeApp-WebApiDotnet7&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+</div>
       <!-- badges dinámicos -->
       <p>
         <img src="https://img.shields.io/github/stars/USUARIO/repo-1?style=flat" alt="stars"/>
