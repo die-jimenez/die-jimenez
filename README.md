@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%">
       <a href="https://github.com/USUARIO/repo-1">
         <!-- tarjeta automática de GitHub -->
         <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
