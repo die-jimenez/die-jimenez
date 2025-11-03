@@ -33,8 +33,9 @@
       <h3>📌 <a href="https://github.com/USUARIO/repo-1">repo-1</a></h3>
       <p>Una línea con la descripción corta del repo-1.</p>
       <div width="100%" align="center">
-       <a align="right" href="https://github.com/Alierenkayhan/Atolye" title="Atolye">
-       <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5"></a>
+       <a align="right" href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
+       <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
+       </a>
       </div>
     </td>
     <!-- otra fila -->
