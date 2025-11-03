@@ -23,67 +23,66 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=die-jimenez&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=die-jimenez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Algunos de mis proyectos
 
----
+
+
+
+## 🚀 Algunos de mis proyectos
 
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/USUARIO/repo-1">
-        <!-- tarjeta automática de GitHub -->
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-1" width="100%" alt="repo-1"/>
+        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-1" width="100%" alt="repo-1">
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-1">repo-1</a></h3>
-      <p>Una línea con la descripción corta del repo-1.</p>
-      <!-- badges dinámicos -->
+      <h3><a href="https://github.com/USUARIO/repo-1">📌 repo-1</a></h3>
+      <p>Descripción corta del repo-1.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-1?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-1?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-1?style=flat" alt="language"/>
+        <img src="https://img.shields.io/github/stars/USUARIO/repo-1?style=flat" alt="stars">
+        <img src="https://img.shields.io/github/forks/USUARIO/repo-1?style=flat" alt="forks">
+        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-1?style=flat" alt="language">
       </p>
     </td>
 
     <td align="center" width="50%">
       <a href="https://github.com/USUARIO/repo-2">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-2" width="100%" alt="repo-2"/>
+        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-2" width="100%" alt="repo-2">
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-2">repo-2</a></h3>
+      <h3><a href="https://github.com/USUARIO/repo-2">📌 repo-2</a></h3>
       <p>Descripción corta del repo-2.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-2?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-2?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-2?style=flat" alt="language"/>
+        <img src="https://img.shields.io/github/stars/USUARIO/repo-2?style=flat" alt="stars">
+        <img src="https://img.shields.io/github/forks/USUARIO/repo-2?style=flat" alt="forks">
+        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-2?style=flat" alt="language">
       </p>
     </td>
   </tr>
 
-  <!-- otra fila -->
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/USUARIO/repo-3">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-3" width="100%" alt="repo-3"/>
+        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-3" width="100%" alt="repo-3">
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-3">repo-3</a></h3>
+      <h3><a href="https://github.com/USUARIO/repo-3">📌 repo-3</a></h3>
       <p>Descripción corta del repo-3.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-3?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-3?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-3?style=flat" alt="language"/>
+        <img src="https://img.shields.io/github/stars/USUARIO/repo-3?style=flat" alt="stars">
+        <img src="https://img.shields.io/github/forks/USUARIO/repo-3?style=flat" alt="forks">
+        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-3?style=flat" alt="language">
       </p>
     </td>
+
     <td align="center" width="50%">
       <a href="https://github.com/USUARIO/repo-4">
-        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-4" width="100%" alt="repo-4"/>
+        <img src="https://opengraph.githubassets.com/1/USUARIO/repo-4" width="100%" alt="repo-4">
       </a>
-      <h3>📌 <a href="https://github.com/USUARIO/repo-4">repo-4</a></h3>
+      <h3><a href="https://github.com/USUARIO/repo-4">📌 repo-4</a></h3>
       <p>Descripción corta del repo-4.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USUARIO/repo-4?style=flat" alt="stars"/>
-        <img src="https://img.shields.io/github/forks/USUARIO/repo-4?style=flat" alt="forks"/>
-        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-4?style=flat" alt="language"/>
+        <img src="https://img.shields.io/github/stars/USUARIO/repo-4?style=flat" alt="stars">
+        <img src="https://img.shields.io/github/forks/USUARIO/repo-4?style=flat" alt="forks">
+        <img src="https://img.shields.io/github/languages/top/USUARIO/repo-4?style=flat" alt="language">
       </p>
     </td>
   </tr>
 </table>
-
