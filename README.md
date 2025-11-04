@@ -3,13 +3,11 @@
 I'm a game programmer with two years of experience developing in Unity and Unreal. I hold a Bachelor's Degree in Multimedia Design. Beyond game development, I'm a teaching assistant for “Programming Fundamentals” at the National University of La Plata (UNLP), and in my free time, I explore the world of electronics and robotics through artistic and personal projects.
 
 ## Where to find me:
+Mail: <a href="mailto:diegojimenez2010@gmail.com">Diegojimenez2010@gmail.com</a>
+
 Portfolio: [diegojimenez.com.ar](https://diegojimenez.com.ar/pages/portafolio.html)
 
 Lindedin: [die-jimenez](www.linkedin.com/in/die-jimenez)
-
-Mail: <a href="mailto:diegojimenez2010@gmail.com">Diegojimenez2010@gmail.com</a>
-
-
 
 
 
