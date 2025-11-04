@@ -3,16 +3,10 @@
 I'm a game programmer with two years of experience developing in Unity and Unreal. I hold a Bachelor's Degree in Multimedia Design. Beyond game development, I'm a teaching assistant for “Programming Fundamentals” at the National University of La Plata (UNLP), and in my free time, I explore the world of electronics and robotics through artistic and personal projects.
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335485e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-
-### Where to find me:
-<p>Mail: <a href="mailto:diegojimenez2010@gmail.com">Diegojimenez2010@gmail.com</a></p>
-<p>Portfolio: [diegojimenez.com.ar](https://diegojimenez.com.ar/pages/portafolio.html)</p>
-<p>Lindedin: [die-jimenez](www.linkedin.com/in/die-jimenez)</p>
 
 
 ## 🚀 Some of my projects:
