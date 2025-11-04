@@ -17,7 +17,7 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
       <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
       <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
       <div width="98%" align="center">
-       <img align="left" width="98%" src="[https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5](https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5)">
+       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
       </a>
     </td>
