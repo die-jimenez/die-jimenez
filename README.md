@@ -4,7 +4,9 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
 
 ## Where to find me:
 Portfolio: [diegojimenez.com.ar](https://diegojimenez.com.ar/pages/portafolio.html)
+
 Lindedin: [die-jimenez](www.linkedin.com/in/die-jimenez)
+
 Mail: <a href="mailto:diegojimenez2010@gmail.com">Diegojimenez2010@gmail.com</a>
 
 
