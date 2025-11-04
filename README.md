@@ -17,7 +17,7 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
       <a href="https://github.com/die-jimenez/A-future-but-not-for-us" title="A-future-but-not-for-us">
       <img src="https://diegojimenez.com.ar/github-assets/a-future.webp"/>
       <div width="98%" align="center">
-       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
+       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimene&repo=A-future-but-not-for-us&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
       </a>
     </td>
@@ -26,7 +26,7 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
       <a href="https://github.com/die-jimenez/Peep-Prototype" title="Peep-Prototype">
       <img src="https://diegojimenez.com.ar/github-assets/peep.webp"/>
       <div width="98%" align="center">
-       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=peep-prototype&theme=dark&border_color=f1f1f1&border_radius=5">
+       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimene&repo=peep-prototype&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
       </a>
     </td>
@@ -37,7 +37,7 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
       <a href="https://github.com/die-jimenez/Tamagotchi" title="Tamagotchi">
       <img src="https://diegojimenez.com.ar/github-assets/tamagotchi.jpg"/>
       <div width="98%" align="center">
-       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=Tamagotchi&theme=dark&border_color=f1f1f1&border_radius=5">
+       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimene&repo=Tamagotchi&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
       </a>
     </td>
@@ -46,7 +46,7 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
       <a href="https://github.com/die-jimenez/Essay-of-Empathy" title="Peep-Prototype">
       <img src="https://diegojimenez.com.ar/github-assets/essay-of-empathy.png"/>
       <div width="98%" align="center">
-       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=Essay-of-Empathy&theme=dark&border_color=f1f1f1&border_radius=5">
+       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimene&repo=Essay-of-Empathy&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
       </a>
     </td>
