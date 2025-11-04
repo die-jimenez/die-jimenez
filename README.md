@@ -44,7 +44,7 @@ I'm a game programmer with two years of experience developing in Unity and Unrea
     <!-- otra fila -->
     <td width="48%">
       <a href="https://github.com/die-jimenez/Peep-Prototype" title="Peep-Prototype">
-      <img src="https://diegojimenez.com.ar/github-assets/essay-of-emphaty.png"/>
+      <img src="https://diegojimenez.com.ar/github-assets/essay-of-empathy.png"/>
       <div width="98%" align="center">
        <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=peep-prototype&theme=dark&border_color=f1f1f1&border_radius=5">
       </div>
