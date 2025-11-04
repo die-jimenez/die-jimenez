@@ -1,12 +1,14 @@
 # Hi there, I'm Diego
 
-- 🔭 Desarrollador de videojuegos
-- 📫 Diseñador de experiencias interactivas
-- 🌱 Diseñador Multimedial graduado de la Universidad Nacional de La Plata (UNLP), Argentina
-- 👯 Ayundante de profesores universitario de programación durante 2 años en la UNLP
-- 🤔 Investigando como incorporar las IAs en la enseñanza de forma ética y efectiva
-- 💬 Experimentando con el uso de la electrónica en artes como la cerámica
-- 😄 Actualemente aprendiendo sobre shaders
+I'm a game programmer with two years of experience developing in Unity and Unreal. I hold a Bachelor's Degree in Multimedia Design. Beyond game development, I'm a teaching assistant for “Programming Fundamentals” at the National University of La Plata (UNLP), and in my free time, I explore the world of electronics and robotics through artistic and personal projects.
+
+## Where to find me:
+Portfolio: ![diegojimenez.com.ar](https://diegojimenez.com.ar/pages/portafolio.html)
+Lindedin: ![die-jimenez](www.linkedin.com/in/die-jimenez)
+Mail: <a href="mailto:diegojimenez2010@gmail.com">Diegojimenez2010@gmail.com</a>
+
+
+
 
 
 ## 💻 Tech Stack:
