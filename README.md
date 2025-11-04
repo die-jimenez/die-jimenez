@@ -1,6 +1,6 @@
 # Hi there, I'm Diego
 
-I'm a game programmer with two years of experience developing in Unity and Unreal. I hold a Bachelor's Degree in Multimedia Design. Beyond game development, I'm a teaching assistant for “Programming Fundamentals” at the National University of La Plata (UNLP), and in my free time, I explore the world of electronics and robotics through artistic and personal projects.
+I'm a game programmer with three years of experience developing in Unity and Unreal. I hold a Bachelor's Degree in Multimedia Design. Beyond game development, I'm a teaching assistant for “Programming Fundamentals” at the National University of La Plata (UNLP), and in my free time, I explore the world of electronics and robotics through artistic and personal projects.
 
 
 ## 💻 Tech Stack:
