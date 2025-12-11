@@ -46,7 +46,7 @@ I'm a game programmer with three years of experience developing in Unity and Unr
       <a href="https://github.com/die-jimenez/Essay-of-Empathy" title="Peep-Prototype">
       <img src="https://diegojimenez.com.ar/die-github-assets/essay-of-empathy.png"/>
       <div width="98%" align="center">
-       <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=Essay-of-Empathy&theme=dark&border_color=f1f1f1&border_radius=6">
+       <img align="left" width="98%" src="https://die-github-readme-stats.vercel.app/api/pin/?username=die-jimenez&repo=Essay-of-Empathy&theme=dark&border_color=f1f1f1&border_radius=6">
       </div>
       </a>
     </td>
